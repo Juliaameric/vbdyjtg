@@ -1,0 +1,22 @@
+.name {
+    text-align: center;
+}
+.emaa {
+    text-align: center;
+}
+.tele {
+    text-align: center;
+}
+
+label{
+    background-color: #9e8dc1;
+    padding: 3px;
+    border-radius: 3px;
+}
+.mens {
+    text-align: center;
+    margin: 5px;
+}
+.botao {
+    text-align: center;
+}
